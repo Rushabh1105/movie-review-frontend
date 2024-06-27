@@ -1,0 +1,43 @@
+
+.new-movie{
+    background-color: rgba(47, 47, 47, 1);
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+
+.input-field{
+    color: white;
+    width: 80%;
+    /* background-color: red; */
+    margin: 10px auto;    
+}
+
+.input-field{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.input-field label{
+    font-size: 20px;
+}
+
+.input-field input{
+    width: 50%;
+    height: 25px;
+}
+
+.new-movie button{
+    width: 50%;
+    align-items: center;
+    margin-left: 30%;
+    height: 30px;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    border-radius: 10px;
+}

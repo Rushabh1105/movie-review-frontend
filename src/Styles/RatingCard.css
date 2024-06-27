@@ -1,0 +1,8 @@
+.movie-ratings{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px auto;
+    background-color: black;
+    padding: 10px;
+}

@@ -1,0 +1,41 @@
+[
+    {
+        "_id": "667af9a579de215522fca229",
+        "name": "The Shawshank Redemption",
+        "desc": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.",
+        "genre": "Drama",
+        "releaseYear": "1994",
+        "poster": "https://i.scdn.co/image/ab67616d00001e02e710c1f5b228046932790031",
+        "director": "Frank Darabont",
+        "actors": "Tim Robbins, Morgan Freeman, Bob Gunton",
+        "status": "unwatched",
+        "ratings": [],
+        "__v": 0
+    },
+    {
+        "_id": "667afa2879de215522fca22b",
+        "name": "The Godfather",
+        "desc": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "genre": "Drama, Crime",
+        "releaseYear": "1972",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/a/af/The_Godfather%2C_The_Game.jpg",
+        "director": "Francis Ford Coppola",
+        "actors": "Marlon Brando, Al Pacino, James Caan",
+        "status": "unwatched",
+        "ratings": [],
+        "__v": 0
+    },
+    {
+        "_id": "667bca6e8536a1398f9378d7",
+        "name": "The Dark Knight",
+        "desc": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "genre": "Drama, Crime, Action",
+        "releaseYear": "2008",
+        "poster": "https://ew.com/thmb/B0w9qzmQqCZ1tumxv8cBx0aPTrQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mcddakn_ec005-2000-a3d30c1958fb442486fb1e10ba92dd17.jpg",
+        "director": "Christopher Nolan",
+        "actors": "Christian Bale, Heath Ledger, Aaron Eckhart",
+        "status": "unwatched",
+        "ratings": [],
+        "__v": 0
+    }
+]
